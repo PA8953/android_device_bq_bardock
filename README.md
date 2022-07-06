@@ -21,4 +21,4 @@ Fingerprint | Yes
 NFC | Yes
 Release Date | April 2017
 
-![BQ Aquaris X](https://store.bq.com/media/catalog/product/cache/4/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/q/aquaris_xpro_black_frontal_800x800_4.jpg "BQ Aquaris X")
+![BQ Aquaris X](https://fdn2.gsmarena.com/vv/pics/bq/bq-aquaris-2.jpg "BQ Aquaris X")
